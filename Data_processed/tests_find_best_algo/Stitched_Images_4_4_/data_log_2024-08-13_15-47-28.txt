@@ -1,0 +1,38 @@
+Starting the process for saving the data from the terminal into the text file
+- Timer initialized s
+
+Extracting locations from images
+Successfully extracted location from image 0 out of 72
+Successfully extracted location from image 20 out of 72
+Successfully extracted location from image 40 out of 72
+Successfully extracted location from image 60 out of 72
+
+Start loading and finding masks for images: 
+4 - 4
+Finished finding masks for all images. Stage took 8.04 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 4 and 3
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.13 s
+
+
+  - Start feature Detection
+
+      There are 18389 points in image1 and 15496 in image2
+
+      - Finished feature detection, stage took 6.53 s
+
+
+  - Start feature Matching
+
+      There are 28 matches
+
+      - Finished feature Matching, stage took 0.60 s

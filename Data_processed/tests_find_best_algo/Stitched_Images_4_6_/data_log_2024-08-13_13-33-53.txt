@@ -1,0 +1,212 @@
+Starting the process for saving the data from the terminal into the text file
+- Timer initialized s
+
+Extracting locations from images
+Successfully extracted location from image 0 out of 72
+
+Start loading and finding masks for images: 
+4 - 6
+Finished finding masks for all images. Stage took 20.86 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 4 and 3
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.16 s
+
+
+  - Start feature Detection
+
+      There are 13057 points in image1 and 11637 in image2
+
+      - Finished feature detection, stage took 6.47 s
+
+
+  - Start feature Matching
+
+      There are 31 matches
+
+      - Finished feature Matching, stage took 0.45 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.43 s
+
+
+
+  == Metrics:
+
+     Number of matches:     31
+     Average distance x:    1381
+     Average distance y:    -16
+     Std_dev distance x:             28.25
+     Std_dev distance y:             6.15
+
+     Percentage good matches/keypoints:    0.26639%
+     Average match similitude:                 117.82
+     Number of inliers:                        31
+     Inlier ratio:                             0.10
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          8.05
+     Max match size image 1:              134.65
+     Min match size image 1:              2.36
+     Std_dev match size image 1:          23.16
+     Average match response image 1:      0.03
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         8.18
+     Max match size image 2:              139.57
+     Min match size image 2:              2.55
+     Std_dev match size image 2:          24.03
+     Average match response image 2:      0.04
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 7.54 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 5 and 4
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.14 s
+
+
+  - Start feature Detection
+
+      There are 12829 points in image1 and 10388 in image2
+
+      - Finished feature detection, stage took 5.73 s
+
+
+  - Start feature Matching
+
+      There are 33 matches
+
+      - Finished feature Matching, stage took 0.46 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.38 s
+
+
+
+  == Metrics:
+
+     Number of matches:     33
+     Average distance x:    1414
+     Average distance y:    -19
+     Std_dev distance x:             51.32
+     Std_dev distance y:             4.60
+
+     Percentage good matches/keypoints:    0.31767%
+     Average match similitude:                 108.06
+     Number of inliers:                        33
+     Inlier ratio:                             0.12
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          7.01
+     Max match size image 1:              26.07
+     Min match size image 1:              1.99
+     Std_dev match size image 1:          7.25
+     Average match response image 1:      0.03
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         7.14
+     Max match size image 2:              27.41
+     Min match size image 2:              2.08
+     Std_dev match size image 2:          7.56
+     Average match response image 2:      0.03
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 6.74 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.15 s
+
+
+  - Start feature Detection
+
+      There are 12097 points in image1 and 9774 in image2
+
+      - Finished feature detection, stage took 5.81 s
+
+
+  - Start feature Matching
+
+      There are 20 matches
+
+      - Finished feature Matching, stage took 0.42 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.37 s
+
+
+
+  == Metrics:
+
+     Number of matches:     20
+     Average distance x:    1482
+     Average distance y:    1
+     Std_dev distance x:             60.59
+     Std_dev distance y:             6.49
+
+     Percentage good matches/keypoints:    0.20462%
+     Average match similitude:                 115.94
+     Number of inliers:                        20
+     Inlier ratio:                             0.07
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          8.66
+     Max match size image 1:              42.62
+     Min match size image 1:              2.33
+     Std_dev match size image 1:          11.60
+     Average match response image 1:      0.04
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         8.21
+     Max match size image 2:              39.39
+     Min match size image 2:              2.51
+     Std_dev match size image 2:          10.63
+     Average match response image 2:      0.04
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 6.79 s
+
+
+
+
+
+----------------------------------------------------------------------------
+FINISHED ENTIRE PROCESS
+Elapsed time is: 42.34 seconds; == 0.71 minutes
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/

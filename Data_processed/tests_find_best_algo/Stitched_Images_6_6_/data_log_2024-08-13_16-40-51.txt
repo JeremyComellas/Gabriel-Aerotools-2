@@ -1,0 +1,2627 @@
+Starting the process for saving the data from the terminal into the text file
+- Timer initialized s
+
+Extracting locations from images
+Successfully extracted location from image 0 out of 72
+Successfully extracted location from image 20 out of 72
+Successfully extracted location from image 40 out of 72
+Successfully extracted location from image 60 out of 72
+
+Start loading and finding masks for images: 
+6 - 6
+Finished finding masks for all images. Stage took 8.85 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.18 s
+
+
+  - Start feature Detection
+
+      There are 13143 points in image1 and 10604 in image2
+
+      - Finished feature detection, stage took 7.48 s
+
+
+  - Start feature Matching
+
+      There are 28 matches
+
+      - Finished feature Matching, stage took 0.57 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.44 s
+
+
+
+  == Metrics:
+  -  Varying nOctaveLayers, current value is +2.0
+
+     Number of matches:     28
+     Average distance x:    -712
+     Average distance y:    5
+     Std_dev distance x:             2.08
+     Std_dev distance y:             2.51
+
+     Percentage good matches/keypoints:    0.26405%
+     Average match similitude:                 114.83
+     Number of inliers:                        28
+     Inlier ratio:                             0.09
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          13.76
+     Max match size image 1:              44.65
+     Min match size image 1:              2.56
+     Std_dev match size image 1:          11.64
+     Average match response image 1:      0.03
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         13.20
+     Max match size image 2:              41.02
+     Min match size image 2:              2.19
+     Std_dev match size image 2:          10.78
+     Average match response image 2:      0.03
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 8.70 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.16 s
+
+
+  - Start feature Detection
+
+      There are 13143 points in image1 and 10604 in image2
+
+      - Finished feature detection, stage took 7.16 s
+
+
+  - Start feature Matching
+
+      There are 29 matches
+
+      - Finished feature Matching, stage took 0.40 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.36 s
+
+
+
+  == Metrics:
+  -  Varying nOctaveLayers, current value is +2.2
+
+     Number of matches:     29
+     Average distance x:    -715
+     Average distance y:    6
+     Std_dev distance x:             9.22
+     Std_dev distance y:             1.79
+
+     Percentage good matches/keypoints:    0.27348%
+     Average match similitude:                 110.55
+     Number of inliers:                        29
+     Inlier ratio:                             0.10
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          13.28
+     Max match size image 1:              44.65
+     Min match size image 1:              2.33
+     Std_dev match size image 1:          11.61
+     Average match response image 1:      0.03
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         12.71
+     Max match size image 2:              41.02
+     Min match size image 2:              1.99
+     Std_dev match size image 2:          10.79
+     Average match response image 2:      0.03
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 8.12 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.15 s
+
+
+  - Start feature Detection
+
+      There are 13143 points in image1 and 10604 in image2
+
+      - Finished feature detection, stage took 6.82 s
+
+
+  - Start feature Matching
+
+      There are 23 matches
+
+      - Finished feature Matching, stage took 0.55 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.37 s
+
+
+
+  == Metrics:
+  -  Varying nOctaveLayers, current value is +2.4000000000000004
+
+     Number of matches:     23
+     Average distance x:    -712
+     Average distance y:    10
+     Std_dev distance x:             2.73
+     Std_dev distance y:             16.14
+
+     Percentage good matches/keypoints:    0.21690%
+     Average match similitude:                 114.05
+     Number of inliers:                        23
+     Inlier ratio:                             0.07
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          14.92
+     Max match size image 1:              44.65
+     Min match size image 1:              2.46
+     Std_dev match size image 1:          12.41
+     Average match response image 1:      0.03
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         14.20
+     Max match size image 2:              41.02
+     Min match size image 2:              2.33
+     Std_dev match size image 2:          11.48
+     Average match response image 2:      0.03
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 7.93 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.14 s
+
+
+  - Start feature Detection
+
+      There are 13143 points in image1 and 10604 in image2
+
+      - Finished feature detection, stage took 7.01 s
+
+
+  - Start feature Matching
+
+      There are 25 matches
+
+      - Finished feature Matching, stage took 0.45 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.34 s
+
+
+
+  == Metrics:
+  -  Varying nOctaveLayers, current value is +2.6000000000000005
+
+     Number of matches:     25
+     Average distance x:    -712
+     Average distance y:    5
+     Std_dev distance x:             2.12
+     Std_dev distance y:             2.62
+
+     Percentage good matches/keypoints:    0.23576%
+     Average match similitude:                 112.41
+     Number of inliers:                        25
+     Inlier ratio:                             0.08
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          14.10
+     Max match size image 1:              44.65
+     Min match size image 1:              2.56
+     Std_dev match size image 1:          12.23
+     Average match response image 1:      0.03
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         13.39
+     Max match size image 2:              41.02
+     Min match size image 2:              2.19
+     Std_dev match size image 2:          11.33
+     Average match response image 2:      0.03
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 7.99 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.14 s
+
+
+  - Start feature Detection
+
+      There are 13143 points in image1 and 10604 in image2
+
+      - Finished feature detection, stage took 6.99 s
+
+
+  - Start feature Matching
+
+      There are 20 matches
+
+      - Finished feature Matching, stage took 0.51 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.40 s
+
+
+
+  == Metrics:
+  -  Varying nOctaveLayers, current value is +2.8000000000000007
+
+     Number of matches:     20
+     Average distance x:    -671
+     Average distance y:    6
+     Std_dev distance x:             177.46
+     Std_dev distance y:             1.79
+
+     Percentage good matches/keypoints:    0.18861%
+     Average match similitude:                 113.09
+     Number of inliers:                        20
+     Inlier ratio:                             0.07
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          15.82
+     Max match size image 1:              44.65
+     Min match size image 1:              3.32
+     Std_dev match size image 1:          12.84
+     Average match response image 1:      0.03
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         15.04
+     Max match size image 2:              41.02
+     Min match size image 2:              2.85
+     Std_dev match size image 2:          11.84
+     Average match response image 2:      0.03
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 8.07 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.15 s
+
+
+  - Start feature Detection
+
+      There are 13452 points in image1 and 10781 in image2
+
+      - Finished feature detection, stage took 9.93 s
+
+
+  - Start feature Matching
+
+      There are 19 matches
+
+      - Finished feature Matching, stage took 0.52 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.34 s
+
+
+
+  == Metrics:
+  -  Varying nOctaveLayers, current value is +3.000000000000001
+
+     Number of matches:     19
+     Average distance x:    1437
+     Average distance y:    1
+     Std_dev distance x:             36.97
+     Std_dev distance y:             6.54
+
+     Percentage good matches/keypoints:    0.17624%
+     Average match similitude:                 114.97
+     Number of inliers:                        19
+     Inlier ratio:                             0.06
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          5.59
+     Max match size image 1:              25.54
+     Min match size image 1:              2.47
+     Std_dev match size image 1:          4.95
+     Average match response image 1:      0.02
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         5.56
+     Max match size image 2:              24.09
+     Min match size image 2:              2.72
+     Std_dev match size image 2:          4.60
+     Average match response image 2:      0.02
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 10.99 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.17 s
+
+
+  - Start feature Detection
+
+      There are 13452 points in image1 and 10781 in image2
+
+      - Finished feature detection, stage took 8.36 s
+
+
+  - Start feature Matching
+
+      There are 19 matches
+
+      - Finished feature Matching, stage took 0.68 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.48 s
+
+
+
+  == Metrics:
+  -  Varying nOctaveLayers, current value is +3.200000000000001
+
+     Number of matches:     19
+     Average distance x:    -639
+     Average distance y:    6
+     Std_dev distance x:             250.82
+     Std_dev distance y:             2.09
+
+     Percentage good matches/keypoints:    0.17624%
+     Average match similitude:                 113.48
+     Number of inliers:                        19
+     Inlier ratio:                             0.06
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          12.85
+     Max match size image 1:              45.09
+     Min match size image 1:              4.00
+     Std_dev match size image 1:          12.76
+     Average match response image 1:      0.03
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         12.36
+     Max match size image 2:              41.47
+     Min match size image 2:              3.58
+     Std_dev match size image 2:          11.82
+     Average match response image 2:      0.03
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 9.73 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.16 s
+
+
+  - Start feature Detection
+
+      There are 13452 points in image1 and 10781 in image2
+
+      - Finished feature detection, stage took 8.19 s
+
+
+  - Start feature Matching
+
+      There are 20 matches
+
+      - Finished feature Matching, stage took 0.52 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.43 s
+
+
+
+  == Metrics:
+  -  Varying nOctaveLayers, current value is +3.4000000000000012
+
+     Number of matches:     20
+     Average distance x:    -645
+     Average distance y:    6
+     Std_dev distance x:             209.21
+     Std_dev distance y:             2.50
+
+     Percentage good matches/keypoints:    0.18551%
+     Average match similitude:                 110.96
+     Number of inliers:                        20
+     Inlier ratio:                             0.06
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          16.71
+     Max match size image 1:              45.09
+     Min match size image 1:              2.47
+     Std_dev match size image 1:          12.75
+     Average match response image 1:      0.02
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         15.80
+     Max match size image 2:              41.47
+     Min match size image 2:              2.42
+     Std_dev match size image 2:          11.69
+     Average match response image 2:      0.03
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 9.33 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.16 s
+
+
+  - Start feature Detection
+
+      There are 13452 points in image1 and 10781 in image2
+
+      - Finished feature detection, stage took 8.17 s
+
+
+  - Start feature Matching
+
+      There are 22 matches
+
+      - Finished feature Matching, stage took 0.60 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.38 s
+
+
+
+  == Metrics:
+  -  Varying nOctaveLayers, current value is +3.6000000000000014
+
+     Number of matches:     22
+     Average distance x:    -686
+     Average distance y:    6
+     Std_dev distance x:             75.60
+     Std_dev distance y:             2.12
+
+     Percentage good matches/keypoints:    0.20406%
+     Average match similitude:                 112.33
+     Number of inliers:                        22
+     Inlier ratio:                             0.07
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          15.13
+     Max match size image 1:              45.09
+     Min match size image 1:              2.41
+     Std_dev match size image 1:          12.98
+     Average match response image 1:      0.02
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         14.39
+     Max match size image 2:              41.47
+     Min match size image 2:              2.43
+     Std_dev match size image 2:          11.88
+     Average match response image 2:      0.02
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 9.35 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.13 s
+
+
+  - Start feature Detection
+
+      There are 13452 points in image1 and 10781 in image2
+
+      - Finished feature detection, stage took 7.50 s
+
+
+  - Start feature Matching
+
+      There are 19 matches
+
+      - Finished feature Matching, stage took 0.50 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.44 s
+
+
+
+  == Metrics:
+  -  Varying nOctaveLayers, current value is +3.8000000000000016
+
+     Number of matches:     19
+     Average distance x:    -657
+     Average distance y:    7
+     Std_dev distance x:             226.10
+     Std_dev distance y:             2.76
+
+     Percentage good matches/keypoints:    0.17624%
+     Average match similitude:                 114.52
+     Number of inliers:                        19
+     Inlier ratio:                             0.06
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          10.75
+     Max match size image 1:              25.98
+     Min match size image 1:              2.26
+     Std_dev match size image 1:          6.97
+     Average match response image 1:      0.02
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         10.51
+     Max match size image 2:              25.83
+     Min match size image 2:              2.07
+     Std_dev match size image 2:          7.21
+     Average match response image 2:      0.02
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 8.61 s
+Dictionary successfully dumped to: 'output_nOctaveLayers_2024-08-13_16-40-51.toml'
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.19 s
+
+
+  - Start feature Detection
+
+      There are 8063 points in image1 and 6579 in image2
+
+      - Finished feature detection, stage took 4.95 s
+
+
+  - Start feature Matching
+
+      There are 18 matches
+
+      - Finished feature Matching, stage took 0.29 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.33 s
+
+
+
+  == Metrics:
+  -  Varying contrastThreshold, current value is +0.01
+
+     Number of matches:     18
+     Average distance x:    -716
+     Average distance y:    5
+     Std_dev distance x:             9.17
+     Std_dev distance y:             2.72
+
+     Percentage good matches/keypoints:    0.27360%
+     Average match similitude:                 116.55
+     Number of inliers:                        18
+     Inlier ratio:                             0.07
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          6.96
+     Max match size image 1:              20.69
+     Min match size image 1:              2.22
+     Std_dev match size image 1:          4.29
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         6.81
+     Max match size image 2:              22.27
+     Min match size image 2:              1.90
+     Std_dev match size image 2:          4.53
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 5.80 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.15 s
+
+
+  - Start feature Detection
+
+      There are 5916 points in image1 and 4745 in image2
+
+      - Finished feature detection, stage took 5.00 s
+
+
+  - Start feature Matching
+
+      There are 22 matches
+
+      - Finished feature Matching, stage took 0.26 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.40 s
+
+
+
+  == Metrics:
+  -  Varying contrastThreshold, current value is +0.019000000000000003
+
+     Number of matches:     22
+     Average distance x:    -688
+     Average distance y:    6
+     Std_dev distance x:             113.79
+     Std_dev distance y:             1.63
+
+     Percentage good matches/keypoints:    0.46365%
+     Average match similitude:                 112.09
+     Number of inliers:                        22
+     Inlier ratio:                             0.10
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          13.43
+     Max match size image 1:              42.98
+     Min match size image 1:              3.10
+     Std_dev match size image 1:          11.69
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         12.53
+     Max match size image 2:              39.39
+     Min match size image 2:              2.70
+     Std_dev match size image 2:          10.70
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 5.85 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.18 s
+
+
+  - Start feature Detection
+
+      There are 4541 points in image1 and 3625 in image2
+
+      - Finished feature detection, stage took 5.09 s
+
+
+  - Start feature Matching
+
+      There are 21 matches
+
+      - Finished feature Matching, stage took 0.20 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.37 s
+
+
+
+  == Metrics:
+  -  Varying contrastThreshold, current value is +0.028000000000000004
+
+     Number of matches:     21
+     Average distance x:    -703
+     Average distance y:    6
+     Std_dev distance x:             57.30
+     Std_dev distance y:             1.84
+
+     Percentage good matches/keypoints:    0.57931%
+     Average match similitude:                 112.78
+     Number of inliers:                        21
+     Inlier ratio:                             0.10
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          14.60
+     Max match size image 1:              42.98
+     Min match size image 1:              3.10
+     Std_dev match size image 1:          11.48
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         13.69
+     Max match size image 2:              39.39
+     Min match size image 2:              2.70
+     Std_dev match size image 2:          10.46
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 5.89 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.14 s
+
+
+  - Start feature Detection
+
+      There are 3647 points in image1 and 2916 in image2
+
+      - Finished feature detection, stage took 4.51 s
+
+
+  - Start feature Matching
+
+      There are 14 matches
+
+      - Finished feature Matching, stage took 0.15 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.32 s
+
+
+
+  == Metrics:
+  -  Varying contrastThreshold, current value is +0.03700000000000001
+
+     Number of matches:     14
+     Average distance x:    1541
+     Average distance y:    6
+     Std_dev distance x:             3.70
+     Std_dev distance y:             6.10
+
+     Percentage good matches/keypoints:    0.48011%
+     Average match similitude:                 108.66
+     Number of inliers:                        14
+     Inlier ratio:                             0.07
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          13.88
+     Max match size image 1:              42.62
+     Min match size image 1:              2.67
+     Std_dev match size image 1:          13.29
+     Average match response image 1:      0.06
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         12.96
+     Max match size image 2:              39.39
+     Min match size image 2:              2.82
+     Std_dev match size image 2:          12.33
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 5.16 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.15 s
+
+
+  - Start feature Detection
+
+      There are 3006 points in image1 and 2427 in image2
+
+      - Finished feature detection, stage took 4.37 s
+
+
+  - Start feature Matching
+
+      There are 21 matches
+
+      - Finished feature Matching, stage took 0.13 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.33 s
+
+
+
+  == Metrics:
+  -  Varying contrastThreshold, current value is +0.04600000000000001
+
+     Number of matches:     21
+     Average distance x:    -700
+     Average distance y:    6
+     Std_dev distance x:             55.81
+     Std_dev distance y:             1.52
+
+     Percentage good matches/keypoints:    0.86527%
+     Average match similitude:                 109.69
+     Number of inliers:                        21
+     Inlier ratio:                             0.11
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          13.50
+     Max match size image 1:              42.98
+     Min match size image 1:              2.66
+     Std_dev match size image 1:          12.00
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         12.58
+     Max match size image 2:              39.39
+     Min match size image 2:              2.65
+     Std_dev match size image 2:          10.97
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 5.04 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.21 s
+
+
+  - Start feature Detection
+
+      There are 2479 points in image1 and 2008 in image2
+
+      - Finished feature detection, stage took 4.93 s
+
+
+  - Start feature Matching
+
+      There are 23 matches
+
+      - Finished feature Matching, stage took 0.15 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.37 s
+
+
+
+  == Metrics:
+  -  Varying contrastThreshold, current value is +0.055000000000000014
+
+     Number of matches:     23
+     Average distance x:    -716
+     Average distance y:    6
+     Std_dev distance x:             9.66
+     Std_dev distance y:             1.41
+
+     Percentage good matches/keypoints:    1.14542%
+     Average match similitude:                 104.76
+     Number of inliers:                        23
+     Inlier ratio:                             0.14
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          12.57
+     Max match size image 1:              42.98
+     Min match size image 1:              3.10
+     Std_dev match size image 1:          10.91
+     Average match response image 1:      0.06
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         11.97
+     Max match size image 2:              39.39
+     Min match size image 2:              2.70
+     Std_dev match size image 2:          10.12
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 5.70 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.16 s
+
+
+  - Start feature Detection
+
+      There are 1971 points in image1 and 1608 in image2
+
+      - Finished feature detection, stage took 4.91 s
+
+
+  - Start feature Matching
+
+      There are 20 matches
+
+      - Finished feature Matching, stage took 0.11 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.39 s
+
+
+
+  == Metrics:
+  -  Varying contrastThreshold, current value is +0.06400000000000002
+
+     Number of matches:     20
+     Average distance x:    -619
+     Average distance y:    0
+     Std_dev distance x:             253.23
+     Std_dev distance y:             24.88
+
+     Percentage good matches/keypoints:    1.24378%
+     Average match similitude:                 108.41
+     Number of inliers:                        20
+     Inlier ratio:                             0.14
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          11.78
+     Max match size image 1:              42.98
+     Min match size image 1:              2.13
+     Std_dev match size image 1:          11.89
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         11.12
+     Max match size image 2:              39.39
+     Min match size image 2:              2.44
+     Std_dev match size image 2:          10.86
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 5.63 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.17 s
+
+
+  - Start feature Detection
+
+      There are 1532 points in image1 and 1238 in image2
+
+      - Finished feature detection, stage took 4.53 s
+
+
+  - Start feature Matching
+
+      There are 20 matches
+
+      - Finished feature Matching, stage took 0.09 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.65 s
+
+
+
+  == Metrics:
+  -  Varying contrastThreshold, current value is +0.07300000000000001
+
+     Number of matches:     20
+     Average distance x:    -676
+     Average distance y:    6
+     Std_dev distance x:             108.16
+     Std_dev distance y:             1.71
+
+     Percentage good matches/keypoints:    1.61551%
+     Average match similitude:                 109.44
+     Number of inliers:                        20
+     Inlier ratio:                             0.16
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          13.22
+     Max match size image 1:              42.98
+     Min match size image 1:              3.97
+     Std_dev match size image 1:          11.97
+     Average match response image 1:      0.06
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         12.18
+     Max match size image 2:              39.39
+     Min match size image 2:              3.87
+     Std_dev match size image 2:          10.62
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 5.50 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.19 s
+
+
+  - Start feature Detection
+
+      There are 1174 points in image1 and 957 in image2
+
+      - Finished feature detection, stage took 4.58 s
+
+
+  - Start feature Matching
+
+      There are 18 matches
+
+      - Finished feature Matching, stage took 0.09 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.36 s
+
+
+
+  == Metrics:
+  -  Varying contrastThreshold, current value is +0.08200000000000002
+
+     Number of matches:     18
+     Average distance x:    -715
+     Average distance y:    6
+     Std_dev distance x:             8.55
+     Std_dev distance y:             1.49
+
+     Percentage good matches/keypoints:    1.88088%
+     Average match similitude:                 109.26
+     Number of inliers:                        18
+     Inlier ratio:                             0.17
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          14.97
+     Max match size image 1:              42.98
+     Min match size image 1:              3.97
+     Std_dev match size image 1:          12.06
+     Average match response image 1:      0.06
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         14.00
+     Max match size image 2:              39.39
+     Min match size image 2:              3.87
+     Std_dev match size image 2:          10.80
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 5.25 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.22 s
+
+
+  - Start feature Detection
+
+      There are 900 points in image1 and 755 in image2
+
+      - Finished feature detection, stage took 4.21 s
+
+
+  - Start feature Matching
+
+      There are 18 matches
+
+      - Finished feature Matching, stage took 0.08 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.33 s
+
+
+
+  == Metrics:
+  -  Varying contrastThreshold, current value is +0.09100000000000003
+
+     Number of matches:     18
+     Average distance x:    -716
+     Average distance y:    6
+     Std_dev distance x:             8.65
+     Std_dev distance y:             1.99
+
+     Percentage good matches/keypoints:    2.38411%
+     Average match similitude:                 109.57
+     Number of inliers:                        18
+     Inlier ratio:                             0.19
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          14.79
+     Max match size image 1:              42.98
+     Min match size image 1:              2.79
+     Std_dev match size image 1:          12.22
+     Average match response image 1:      0.06
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         13.83
+     Max match size image 2:              39.39
+     Min match size image 2:              2.56
+     Std_dev match size image 2:          10.96
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 4.87 s
+Dictionary successfully dumped to: 'output_contrastThreshold_2024-08-13_16-40-51.toml'
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.13 s
+
+
+  - Start feature Detection
+
+      There are 13285 points in image1 and 10856 in image2
+
+      - Finished feature detection, stage took 5.62 s
+
+
+  - Start feature Matching
+
+      There are 29 matches
+
+      - Finished feature Matching, stage took 0.48 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.38 s
+
+
+
+  == Metrics:
+  -  Varying edgeThreshold, current value is +5.0
+
+     Number of matches:     29
+     Average distance x:    -717
+     Average distance y:    7
+     Std_dev distance x:             9.80
+     Std_dev distance y:             1.74
+
+     Percentage good matches/keypoints:    0.26713%
+     Average match similitude:                 114.11
+     Number of inliers:                        29
+     Inlier ratio:                             0.10
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          11.96
+     Max match size image 1:              42.98
+     Min match size image 1:              2.03
+     Std_dev match size image 1:          10.75
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         11.30
+     Max match size image 2:              39.39
+     Min match size image 2:              2.38
+     Std_dev match size image 2:          9.80
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 6.67 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.15 s
+
+
+  - Start feature Detection
+
+      There are 13506 points in image1 and 11045 in image2
+
+      - Finished feature detection, stage took 5.88 s
+
+
+  - Start feature Matching
+
+      There are 28 matches
+
+      - Finished feature Matching, stage took 0.53 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.38 s
+
+
+
+  == Metrics:
+  -  Varying edgeThreshold, current value is +6.5
+
+     Number of matches:     28
+     Average distance x:    -717
+     Average distance y:    7
+     Std_dev distance x:             9.96
+     Std_dev distance y:             1.72
+
+     Percentage good matches/keypoints:    0.25351%
+     Average match similitude:                 112.78
+     Number of inliers:                        28
+     Inlier ratio:                             0.09
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          12.23
+     Max match size image 1:              42.98
+     Min match size image 1:              2.03
+     Std_dev match size image 1:          10.85
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         11.55
+     Max match size image 2:              39.39
+     Min match size image 2:              1.90
+     Std_dev match size image 2:          9.88
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 6.97 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.15 s
+
+
+  - Start feature Detection
+
+      There are 13723 points in image1 and 11233 in image2
+
+      - Finished feature detection, stage took 5.68 s
+
+
+  - Start feature Matching
+
+      There are 26 matches
+
+      - Finished feature Matching, stage took 0.51 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.37 s
+
+
+
+  == Metrics:
+  -  Varying edgeThreshold, current value is +8.0
+
+     Number of matches:     26
+     Average distance x:    1433
+     Average distance y:    3
+     Std_dev distance x:             11.87
+     Std_dev distance y:             13.23
+
+     Percentage good matches/keypoints:    0.23146%
+     Average match similitude:                 112.36
+     Number of inliers:                        26
+     Inlier ratio:                             0.09
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          3.42
+     Max match size image 1:              5.16
+     Min match size image 1:              1.88
+     Std_dev match size image 1:          0.77
+     Average match response image 1:      0.03
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         3.49
+     Max match size image 2:              4.99
+     Min match size image 2:              2.07
+     Std_dev match size image 2:          0.73
+     Average match response image 2:      0.03
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 6.76 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.15 s
+
+
+  - Start feature Detection
+
+      There are 13914 points in image1 and 11415 in image2
+
+      - Finished feature detection, stage took 5.87 s
+
+
+  - Start feature Matching
+
+      There are 33 matches
+
+      - Finished feature Matching, stage took 0.58 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.37 s
+
+
+
+  == Metrics:
+  -  Varying edgeThreshold, current value is +9.5
+
+     Number of matches:     33
+     Average distance x:    -715
+     Average distance y:    6
+     Std_dev distance x:             7.67
+     Std_dev distance y:             3.09
+
+     Percentage good matches/keypoints:    0.28909%
+     Average match similitude:                 114.45
+     Number of inliers:                        33
+     Inlier ratio:                             0.11
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          10.47
+     Max match size image 1:              42.98
+     Min match size image 1:              1.99
+     Std_dev match size image 1:          10.25
+     Average match response image 1:      0.06
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         9.79
+     Max match size image 2:              39.39
+     Min match size image 2:              2.33
+     Std_dev match size image 2:          9.26
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 7.02 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.22 s
+
+
+  - Start feature Detection
+
+      There are 14072 points in image1 and 11568 in image2
+
+      - Finished feature detection, stage took 5.85 s
+
+
+  - Start feature Matching
+
+      There are 21 matches
+
+      - Finished feature Matching, stage took 0.54 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.38 s
+
+
+
+  == Metrics:
+  -  Varying edgeThreshold, current value is +11.0
+
+     Number of matches:     21
+     Average distance x:    1491
+     Average distance y:    2
+     Std_dev distance x:             59.88
+     Std_dev distance y:             6.76
+
+     Percentage good matches/keypoints:    0.18154%
+     Average match similitude:                 114.01
+     Number of inliers:                        21
+     Inlier ratio:                             0.07
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          8.97
+     Max match size image 1:              42.62
+     Min match size image 1:              2.33
+     Std_dev match size image 1:          11.26
+     Average match response image 1:      0.04
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         8.51
+     Max match size image 2:              39.39
+     Min match size image 2:              2.51
+     Std_dev match size image 2:          10.33
+     Average match response image 2:      0.04
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 7.05 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.14 s
+
+
+  - Start feature Detection
+
+      There are 14224 points in image1 and 11719 in image2
+
+      - Finished feature detection, stage took 5.88 s
+
+
+  - Start feature Matching
+
+      There are 27 matches
+
+      - Finished feature Matching, stage took 0.50 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.38 s
+
+
+
+  == Metrics:
+  -  Varying edgeThreshold, current value is +12.5
+
+     Number of matches:     27
+     Average distance x:    -713
+     Average distance y:    5
+     Std_dev distance x:             6.79
+     Std_dev distance y:             2.35
+
+     Percentage good matches/keypoints:    0.23040%
+     Average match similitude:                 112.84
+     Number of inliers:                        27
+     Inlier ratio:                             0.09
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          9.82
+     Max match size image 1:              42.98
+     Min match size image 1:              1.99
+     Std_dev match size image 1:          10.57
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         9.27
+     Max match size image 2:              39.39
+     Min match size image 2:              2.33
+     Std_dev match size image 2:          9.67
+     Average match response image 2:      0.05
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 6.93 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.15 s
+
+
+  - Start feature Detection
+
+      There are 14390 points in image1 and 11852 in image2
+
+      - Finished feature detection, stage took 5.99 s
+
+
+  - Start feature Matching
+
+      There are 18 matches
+
+      - Finished feature Matching, stage took 0.50 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.37 s
+
+
+
+  == Metrics:
+  -  Varying edgeThreshold, current value is +14.0
+
+     Number of matches:     18
+     Average distance x:    -654
+     Average distance y:    6
+     Std_dev distance x:             135.51
+     Std_dev distance y:             2.06
+
+     Percentage good matches/keypoints:    0.15187%
+     Average match similitude:                 110.55
+     Number of inliers:                        18
+     Inlier ratio:                             0.06
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          11.21
+     Max match size image 1:              42.98
+     Min match size image 1:              3.07
+     Std_dev match size image 1:          11.82
+     Average match response image 1:      0.06
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         10.78
+     Max match size image 2:              39.39
+     Min match size image 2:              3.17
+     Std_dev match size image 2:          10.87
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 7.03 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.13 s
+
+
+  - Start feature Detection
+
+      There are 14511 points in image1 and 11971 in image2
+
+      - Finished feature detection, stage took 5.68 s
+
+
+  - Start feature Matching
+
+      There are 20 matches
+
+      - Finished feature Matching, stage took 0.58 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.35 s
+
+
+
+  == Metrics:
+  -  Varying edgeThreshold, current value is +15.5
+
+     Number of matches:     20
+     Average distance x:    -665
+     Average distance y:    8
+     Std_dev distance x:             209.72
+     Std_dev distance y:             4.74
+
+     Percentage good matches/keypoints:    0.16707%
+     Average match similitude:                 110.86
+     Number of inliers:                        20
+     Inlier ratio:                             0.06
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          13.25
+     Max match size image 1:              42.98
+     Min match size image 1:              2.77
+     Std_dev match size image 1:          12.45
+     Average match response image 1:      0.06
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         12.23
+     Max match size image 2:              39.39
+     Min match size image 2:              2.78
+     Std_dev match size image 2:          11.41
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 6.79 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.15 s
+
+
+  - Start feature Detection
+
+      There are 14630 points in image1 and 12091 in image2
+
+      - Finished feature detection, stage took 5.94 s
+
+
+  - Start feature Matching
+
+      There are 30 matches
+
+      - Finished feature Matching, stage took 0.55 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.38 s
+
+
+
+  == Metrics:
+  -  Varying edgeThreshold, current value is +17.0
+
+     Number of matches:     30
+     Average distance x:    -713
+     Average distance y:    6
+     Std_dev distance x:             2.17
+     Std_dev distance y:             2.25
+
+     Percentage good matches/keypoints:    0.24812%
+     Average match similitude:                 113.33
+     Number of inliers:                        30
+     Inlier ratio:                             0.09
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          11.29
+     Max match size image 1:              42.98
+     Min match size image 1:              1.99
+     Std_dev match size image 1:          10.64
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         10.55
+     Max match size image 2:              39.39
+     Min match size image 2:              2.33
+     Std_dev match size image 2:          9.71
+     Average match response image 2:      0.05
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 7.06 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.14 s
+
+
+  - Start feature Detection
+
+      There are 14748 points in image1 and 12213 in image2
+
+      - Finished feature detection, stage took 6.10 s
+
+
+  - Start feature Matching
+
+      There are 21 matches
+
+      - Finished feature Matching, stage took 0.48 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.36 s
+
+
+
+  == Metrics:
+  -  Varying edgeThreshold, current value is +18.5
+
+     Number of matches:     21
+     Average distance x:    -634
+     Average distance y:    7
+     Std_dev distance x:             242.79
+     Std_dev distance y:             1.33
+
+     Percentage good matches/keypoints:    0.17195%
+     Average match similitude:                 110.24
+     Number of inliers:                        21
+     Inlier ratio:                             0.07
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          13.00
+     Max match size image 1:              42.98
+     Min match size image 1:              2.79
+     Std_dev match size image 1:          12.20
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         12.04
+     Max match size image 2:              39.39
+     Min match size image 2:              2.69
+     Std_dev match size image 2:          11.17
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 7.12 s
+Dictionary successfully dumped to: 'output_edgeThreshold_2024-08-13_16-40-51.toml'
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.14 s
+
+
+  - Start feature Detection
+
+      There are 7339 points in image1 and 6150 in image2
+
+      - Finished feature detection, stage took 7.31 s
+
+
+  - Start feature Matching
+
+      There are 23 matches
+
+      - Finished feature Matching, stage took 0.29 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.42 s
+
+
+
+  == Metrics:
+  -  Varying sigma, current value is +1.2
+
+     Number of matches:     23
+     Average distance x:    -708
+     Average distance y:    7
+     Std_dev distance x:             17.19
+     Std_dev distance y:             2.24
+
+     Percentage good matches/keypoints:    0.37398%
+     Average match similitude:                 110.77
+     Number of inliers:                        23
+     Inlier ratio:                             0.11
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          9.13
+     Max match size image 1:              22.28
+     Min match size image 1:              3.68
+     Std_dev match size image 1:          6.16
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         9.15
+     Max match size image 2:              22.56
+     Min match size image 2:              3.37
+     Std_dev match size image 2:          6.36
+     Average match response image 2:      0.05
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 8.20 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.15 s
+
+
+  - Start feature Detection
+
+      There are 6994 points in image1 and 5890 in image2
+
+      - Finished feature detection, stage took 7.62 s
+
+
+  - Start feature Matching
+
+      There are 23 matches
+
+      - Finished feature Matching, stage took 0.25 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.36 s
+
+
+
+  == Metrics:
+  -  Varying sigma, current value is +1.28
+
+     Number of matches:     23
+     Average distance x:    -713
+     Average distance y:    7
+     Std_dev distance x:             2.76
+     Std_dev distance y:             2.02
+
+     Percentage good matches/keypoints:    0.39049%
+     Average match similitude:                 107.22
+     Number of inliers:                        23
+     Inlier ratio:                             0.11
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          13.04
+     Max match size image 1:              28.65
+     Min match size image 1:              3.86
+     Std_dev match size image 1:          8.55
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         12.41
+     Max match size image 2:              24.56
+     Min match size image 2:              3.37
+     Std_dev match size image 2:          8.24
+     Average match response image 2:      0.05
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 8.41 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.17 s
+
+
+  - Start feature Detection
+
+      There are 6616 points in image1 and 5657 in image2
+
+      - Finished feature detection, stage took 8.10 s
+
+
+  - Start feature Matching
+
+      There are 13 matches
+
+      - Finished feature Matching, stage took 0.29 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.40 s
+
+
+
+  == Metrics:
+  -  Varying sigma, current value is +1.36
+
+     Number of matches:     13
+     Average distance x:    -480
+     Average distance y:    5
+     Std_dev distance x:             429.19
+     Std_dev distance y:             3.99
+
+     Percentage good matches/keypoints:    0.22980%
+     Average match similitude:                 109.62
+     Number of inliers:                        13
+     Inlier ratio:                             0.07
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          11.80
+     Max match size image 1:              25.16
+     Min match size image 1:              3.83
+     Std_dev match size image 1:          7.70
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         11.77
+     Max match size image 2:              24.74
+     Min match size image 2:              3.64
+     Std_dev match size image 2:          7.63
+     Average match response image 2:      0.05
+     Std_dev match response image 2:      0.01
+
+ Finished step of process, image pair took 9.01 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.17 s
+
+
+  - Start feature Detection
+
+      There are 6276 points in image1 and 5361 in image2
+
+      - Finished feature detection, stage took 9.13 s
+
+
+  - Start feature Matching
+
+      There are 16 matches
+
+      - Finished feature Matching, stage took 0.33 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.46 s
+
+
+
+  == Metrics:
+  -  Varying sigma, current value is +1.4400000000000002
+
+     Number of matches:     16
+     Average distance x:    -695
+     Average distance y:    7
+     Std_dev distance x:             65.55
+     Std_dev distance y:             2.60
+
+     Percentage good matches/keypoints:    0.29845%
+     Average match similitude:                 104.14
+     Number of inliers:                        16
+     Inlier ratio:                             0.08
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          13.22
+     Max match size image 1:              25.32
+     Min match size image 1:              3.84
+     Std_dev match size image 1:          8.15
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         12.78
+     Max match size image 2:              24.97
+     Min match size image 2:              3.64
+     Std_dev match size image 2:          8.07
+     Average match response image 2:      0.05
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 10.13 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.16 s
+
+
+  - Start feature Detection
+
+      There are 5931 points in image1 and 5175 in image2
+
+      - Finished feature detection, stage took 7.66 s
+
+
+  - Start feature Matching
+
+      There are 31 matches
+
+      - Finished feature Matching, stage took 0.25 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.41 s
+
+
+
+  == Metrics:
+  -  Varying sigma, current value is +1.5200000000000002
+
+     Number of matches:     31
+     Average distance x:    -712
+     Average distance y:    6
+     Std_dev distance x:             2.11
+     Std_dev distance y:             2.00
+
+     Percentage good matches/keypoints:    0.59903%
+     Average match similitude:                 101.81
+     Number of inliers:                        31
+     Inlier ratio:                             0.14
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          12.73
+     Max match size image 1:              43.01
+     Min match size image 1:              3.62
+     Std_dev match size image 1:          11.06
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         12.52
+     Max match size image 2:              39.29
+     Min match size image 2:              3.88
+     Std_dev match size image 2:          10.37
+     Average match response image 2:      0.05
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 8.51 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.17 s
+
+
+  - Start feature Detection
+
+      There are 5675 points in image1 and 4903 in image2
+
+      - Finished feature detection, stage took 8.01 s
+
+
+  - Start feature Matching
+
+      There are 36 matches
+
+      - Finished feature Matching, stage took 0.23 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.46 s
+
+
+
+  == Metrics:
+  -  Varying sigma, current value is +1.6000000000000003
+
+     Number of matches:     36
+     Average distance x:    -715
+     Average distance y:    5
+     Std_dev distance x:             5.68
+     Std_dev distance y:             2.68
+
+     Percentage good matches/keypoints:    0.73424%
+     Average match similitude:                 101.23
+     Number of inliers:                        36
+     Inlier ratio:                             0.17
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          13.76
+     Max match size image 1:              69.13
+     Min match size image 1:              3.63
+     Std_dev match size image 1:          13.84
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         13.22
+     Max match size image 2:              66.19
+     Min match size image 2:              3.89
+     Std_dev match size image 2:          13.02
+     Average match response image 2:      0.05
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 8.90 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.16 s
+
+
+  - Start feature Detection
+
+      There are 5384 points in image1 and 4646 in image2
+
+      - Finished feature detection, stage took 7.88 s
+
+
+  - Start feature Matching
+
+      There are 33 matches
+
+      - Finished feature Matching, stage took 0.22 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.36 s
+
+
+
+  == Metrics:
+  -  Varying sigma, current value is +1.6800000000000004
+
+     Number of matches:     33
+     Average distance x:    -714
+     Average distance y:    6
+     Std_dev distance x:             5.76
+     Std_dev distance y:             2.72
+
+     Percentage good matches/keypoints:    0.71029%
+     Average match similitude:                 102.74
+     Number of inliers:                        33
+     Inlier ratio:                             0.15
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          14.86
+     Max match size image 1:              70.43
+     Min match size image 1:              3.90
+     Std_dev match size image 1:          14.21
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         14.34
+     Max match size image 2:              67.44
+     Min match size image 2:              3.97
+     Std_dev match size image 2:          13.41
+     Average match response image 2:      0.05
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 8.65 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.16 s
+
+
+  - Start feature Detection
+
+      There are 5171 points in image1 and 4476 in image2
+
+      - Finished feature detection, stage took 8.33 s
+
+
+  - Start feature Matching
+
+      There are 26 matches
+
+      - Finished feature Matching, stage took 0.19 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.35 s
+
+
+
+  == Metrics:
+  -  Varying sigma, current value is +1.7600000000000005
+
+     Number of matches:     26
+     Average distance x:    1468
+     Average distance y:    4
+     Std_dev distance x:             51.70
+     Std_dev distance y:             6.82
+
+     Percentage good matches/keypoints:    0.58088%
+     Average match similitude:                 105.60
+     Number of inliers:                        26
+     Inlier ratio:                             0.13
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          8.54
+     Max match size image 1:              42.55
+     Min match size image 1:              3.91
+     Std_dev match size image 1:          10.00
+     Average match response image 1:      0.04
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         8.22
+     Max match size image 2:              39.27
+     Min match size image 2:              3.85
+     Std_dev match size image 2:          9.15
+     Average match response image 2:      0.04
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 9.07 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.15 s
+
+
+  - Start feature Detection
+
+      There are 4911 points in image1 and 4273 in image2
+
+      - Finished feature detection, stage took 7.75 s
+
+
+  - Start feature Matching
+
+      There are 26 matches
+
+      - Finished feature Matching, stage took 0.22 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.40 s
+
+
+
+  == Metrics:
+  -  Varying sigma, current value is +1.8400000000000005
+
+     Number of matches:     26
+     Average distance x:    -713
+     Average distance y:    6
+     Std_dev distance x:             2.38
+     Std_dev distance y:             3.23
+
+     Percentage good matches/keypoints:    0.60847%
+     Average match similitude:                 101.38
+     Number of inliers:                        26
+     Inlier ratio:                             0.13
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          14.88
+     Max match size image 1:              43.00
+     Min match size image 1:              4.00
+     Std_dev match size image 1:          10.66
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.02
+
+     Average match size image 2:         14.31
+     Max match size image 2:              39.15
+     Min match size image 2:              3.99
+     Std_dev match size image 2:          9.86
+     Average match response image 2:      0.06
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 8.56 s
+----------------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------------
+Analysis images 6 and 5
+----------------------------------------------------------------------------
+
+
+  - Start image pre-processing
+
+      - Finished image pre-processing, stage took 0.14 s
+
+
+  - Start feature Detection
+
+      There are 4631 points in image1 and 3993 in image2
+
+      - Finished feature detection, stage took 8.78 s
+
+
+  - Start feature Matching
+
+      There are 22 matches
+
+      - Finished feature Matching, stage took 0.37 s
+
+
+  - Start saving image
+
+      - Finished saving image, stage took 0.57 s
+
+
+
+  == Metrics:
+  -  Varying sigma, current value is +1.9200000000000006
+
+     Number of matches:     22
+     Average distance x:    -714
+     Average distance y:    6
+     Std_dev distance x:             3.61
+     Std_dev distance y:             3.83
+
+     Percentage good matches/keypoints:    0.55096%
+     Average match similitude:                 107.01
+     Number of inliers:                        22
+     Inlier ratio:                             0.11
+        (Inliners are points that fit well with the calculated homography. A high inliner ratio means 
+         most of the matches fit well with the homography, indicating strong and accurate alignment between images)
+
+     Average match size image 1:          14.58
+     Max match size image 1:              61.52
+     Min match size image 1:              3.99
+     Std_dev match size image 1:          12.06
+     Average match response image 1:      0.05
+     Std_dev match response image 1:      0.01
+
+     Average match size image 2:         14.37
+     Max match size image 2:              60.20
+     Min match size image 2:              4.00
+     Std_dev match size image 2:          11.88
+     Average match response image 2:      0.05
+     Std_dev match response image 2:      0.02
+
+ Finished step of process, image pair took 9.91 s
+Dictionary successfully dumped to: 'output_sigma_2024-08-13_16-40-51.toml'
+
+
+
+
+
+----------------------------------------------------------------------------
+FINISHED ENTIRE PROCESS
+Elapsed time is: 311.31 seconds; == 5.19 minutes
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/

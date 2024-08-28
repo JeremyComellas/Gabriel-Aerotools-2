@@ -1,0 +1,2 @@
+Starting the process for saving the data from the terminal into the text file
+- Timer initialized s
